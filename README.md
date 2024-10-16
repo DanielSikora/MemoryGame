@@ -15,3 +15,4 @@ Aby uruchomić projekt lokalnie, postępuj zgodnie z poniższymi krokami:
 3. **Zainstaluj zależności**: Wpisz poniższą komendę, aby zainstalować wymagane pakiety:
    ```bash
    npm install
+   npm run dev
